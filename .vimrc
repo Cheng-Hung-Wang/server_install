@@ -46,6 +46,9 @@ syntax on
 set mouse=nv		" Enable mouse usage( Normal mode 和 Visual mode a=all modes)
 set number
 set paste
+set ts=4
+set sw=4
+set expandtab autoindent
 colorscheme elflord
 set t_Co=256
  
