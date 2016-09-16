@@ -45,7 +45,7 @@ syntax on
 "set hidden		" Hide buffers when they are abandoned
 set mouse=nv		" Enable mouse usage( Normal mode 和 Visual mode a=all modes)
 set number
-set paste
+"set paste
 set ts=4
 set sw=4
 set expandtab autoindent
